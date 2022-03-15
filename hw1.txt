@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<?php
+$name = Peter Vorek;
+echo var_dump($name) . "<br>";
+
+$credits = "15";
+echo var_dump($credits) . "<br>";
+
+$student = "Full-time Student;
+echo var_dump($c) . "<br>";
+?>
+</body>
+</html>
