@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<?php
+// This is a string
+$name = "Peter Vorek"; 
+// This is the variable
+$credits = "15";
+// This is the float
+$classHours="12";
+
+echo " Hello! Welcome!";
+var_dump($name);
+echo"<br>";
+
+var_dump($credits)
+echo"<br>";
+
+var_dump($classHours);
+echo"<br>";
+
+// Full time or part time student
+
+if($credits >= 12){
+
+echo "full time student"
+}
+else{
+echo"part time student"
+}
+
+?>
+</body>
+</html>
